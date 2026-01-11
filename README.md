@@ -1,9 +1,7 @@
 # Mac On Air
 
-Background service that monitors Mac camera state and sends webhook notifications to
-[WLED](https://kno.wled.ge/) devices.
-
-A macOS background service that continuously monitors your camera status and sends HTTP POST requests to a webhook URL (e.g., WLED) when the camera turns on or off.
+A Mac OS background service that monitors Mac camera state and sends webhook notifications to
+[WLED](https://kno.wled.ge/) devices when the camera tuns on or off.
 
 ## Requirements
 
