@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "is-camera-on",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/sindresorhus/is-camera-on",
+      "state" : {
+        "revision" : "4bbc8632b3d3e1b595de8ee0b39d31565b813b47",
+        "version" : "3.0.0"
+      }
+    }
+  ],
+  "version" : 2
+}
